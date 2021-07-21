@@ -6,7 +6,14 @@ namespace csharpDates
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+
+            var data = DateTime.Now;
+
+            Console.WriteLine(data);
+
+
+
         }
     }
 }

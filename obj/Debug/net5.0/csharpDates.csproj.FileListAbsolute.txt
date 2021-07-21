@@ -1,0 +1,16 @@
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.exe
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.deps.json
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.runtimeconfig.json
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.runtimeconfig.dev.json
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.dll
+C:\Dev\csharpDates\bin\Debug\net5.0\ref\csharpDates.dll
+C:\Dev\csharpDates\bin\Debug\net5.0\csharpDates.pdb
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.csproj.AssemblyReference.cache
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.AssemblyInfoInputs.cache
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.AssemblyInfo.cs
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.csproj.CoreCompileInputs.cache
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.dll
+C:\Dev\csharpDates\obj\Debug\net5.0\ref\csharpDates.dll
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.pdb
+C:\Dev\csharpDates\obj\Debug\net5.0\csharpDates.genruntimeconfig.cache
