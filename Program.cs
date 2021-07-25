@@ -8,7 +8,7 @@ namespace csharpDates
         {
             Console.Clear();
 
-            DateTime? data = DateTime.Now;
+            DateTime? data = null;
 
             Console.WriteLine(data);
 
