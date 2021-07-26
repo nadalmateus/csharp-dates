@@ -8,7 +8,12 @@ namespace csharpDates
         {
             Console.Clear();
 
-            DateTime? data = null;
+            var data = DateTime.Now;
+
+            if (data.Date == DateTime.Now.Date)
+            {
+                Console.WriteLine("É igual!");
+            }
 
             Console.WriteLine(data);
 
