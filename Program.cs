@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace csharpDates
 {
@@ -8,14 +9,9 @@ namespace csharpDates
         {
             Console.Clear();
 
-            var data = DateTime.Now;
+            var pt = new CultureInfo("pt-BR");
 
-            if (data.Date == DateTime.Now.Date)
-            {
-                Console.WriteLine("É igual!");
-            }
-
-            Console.WriteLine(data);
+            Console.WriteLine(pt);
 
 
 
